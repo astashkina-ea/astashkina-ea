@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Katerina"</a> 
+<h1 align="center">Hi, I'm Katerina</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Mobile QA Engineer</h3>
+<h3 align="center">I'm mobile QA Engineer</h3>
 
 
 
