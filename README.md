@@ -1,8 +1,16 @@
-<h1 align="center">Hi, I'm Katerina 😊</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm Lead mobile QA 👩🏻‍💻 🐞</h3>
+### Всем привет 👋, меня зовут Катерина
+#### Lead mobile QA 👩🏻‍💻 🐞 |  | 
 
+Skills: Selenium, Selenide, Appium, Rest Assured, Postman, SoapUI, Charles Proxy
 
+- 🔭 На текущий момент работаю лидом мобильного тестирования
+- 🌱 Изучаю JAVA и автоматизированное тенстирование 
+- 📫 Как найти меня: fedosha9615@gmail.com
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/astashkina-ea)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>]()  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=astashkina-ea&show_icons=true)  
 
 <!--
 ### Hi there 👋
@@ -16,6 +24,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
