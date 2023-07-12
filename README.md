@@ -1,7 +1,7 @@
 ### Всем привет 👋, меня зовут Катерина
 #### Lead mobile QA 👩🏻‍💻 🐞 
 
-Skills: Java, Selenium, Selenide, Appium, Rest Assured, Selenoid, Jenkins, Junit 5, Gradle, Allure Report, Allure TestOps, Telegram Bot, Postman, SoapUI, Charles Proxy
+Skills: Java, Selenium, Selenide, Appium, Rest Assured, Selenoid, Jenkins, Junit 5, Gradle, Allure Report, Allure TestOps, Postman, SoapUI, Charles Proxy
 
 - 🔭 Работаю лидом мобильного тестирования
 - ✔ В области тестирования 4+ лет
