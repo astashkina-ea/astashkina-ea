@@ -1,5 +1,5 @@
 ### Всем привет 👋, меня зовут Катерина
-#### Lead mobile QA 👩🏻‍💻 🐞 |  | 
+#### Lead mobile QA 👩🏻‍💻 🐞 
 
 Skills: Selenium, Selenide, Appium, Rest Assured, Postman, SoapUI, Charles Proxy
 
