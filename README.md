@@ -4,7 +4,7 @@
 Skills: Selenium, Selenide, Appium, Rest Assured, Postman, SoapUI, Charles Proxy
 
 - 🔭 На текущий момент работаю лидом мобильного тестирования
-- 🌱 Изучаю JAVA и автоматизированное тенстирование 
+- 🌱 Изучаю JAVA и автоматизированное тестирование 
 - 📫 Как найти меня: fedosha9615@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/astashkina-ea)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>]()  
