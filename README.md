@@ -1,14 +1,15 @@
 ### Всем привет 👋, меня зовут Катерина
 #### Lead mobile QA 👩🏻‍💻 🐞 
 
-Skills: Selenium, Selenide, Appium, Rest Assured, Postman, SoapUI, Charles Proxy
+Skills: Java, Selenium, Selenide, Appium, Rest Assured, Selenoid, Jenkins, Junit 5, Gradle, Allure Report, Allure TestOps, Telegram Bot, Postman, SoapUI, Charles Proxy
 
-- 🔭 На текущий момент работаю лидом мобильного тестирования
-- ✔️ В области тестирования работаю 4+ лет
-- 🌱 Изучаю JAVA и автоматизированное тестирование 
+- 🔭 Работаю лидом мобильного тестирования
+- ✔ В области тестирования работаю 4+ лет
+- 🌱 Мне нравится участвовать на всех этапах разработки ПО и улучшать качество продукта
+- 👩‍🎓 На текущий момент изучаю JAVA и автоматизированное тестирование
 - 📫 Как найти меня: fedosha9615@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/astashkina-ea)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>]()  
+[<img src='https://github.githubassets.com/favicons/favicon.svg' alt='github' height='40'>](https://github.com/astashkina-ea)  [<img src='https://telegram.org/favicon.ico' alt='telegram' height='40'>](https://t.me/astashkina_ea)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=astashkina-ea&show_icons=true)  
 
