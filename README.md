@@ -10,10 +10,6 @@ Skills: Java, Selenium, Selenide, Appium, Rest Assured, Selenoid, Jenkins, Junit
 >- 📩 fedosha9615@gmail.com
 >- 📱 t/me.astashkina_ea
 
-[<img src='https://github.githubassets.com/favicons/favicon.svg' alt='github' height='40'>](https://github.com/astashkina-ea)  [<img src='https://telegram.org/favicon.ico' alt='telegram' height='40'>](https://t.me/astashkina_ea)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=astashkina-ea&show_icons=true)  
-
 <!--
 ### Hi there 👋
 **astashkina-ea/astashkina-ea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
