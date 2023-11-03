@@ -8,7 +8,7 @@ Skills: Java, Selenium, Selenide, Appium, Rest Assured, Selenoid, Jenkins, Junit
 - 🌱 Мне нравится участвовать на всех этапах разработки ПО и улучшать качество продукта
 - 📫 Как найти меня:
 >- 📩 fedosha9615@gmail.com
->- 📱 <a target="_blank" href="https://t/me.astashkina_ea">t/me.astashkina_ea</a>
+>- 📱 <a target="_blank" href="https://t.me/astashkina_ea">t.me/astashkina_ea</a>
 
 <!--
 ### Hi there 👋
