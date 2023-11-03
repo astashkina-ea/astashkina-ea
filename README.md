@@ -6,7 +6,9 @@ Skills: Java, Selenium, Selenide, Appium, Rest Assured, Selenoid, Jenkins, Junit
 - 🔭 Работаю лидом мобильного тестирования
 - ✔ В области тестирования 4+ лет
 - 🌱 Мне нравится участвовать на всех этапах разработки ПО и улучшать качество продукта
-- 📫 Как найти меня: fedosha9615@gmail.com
+- 📫 Как найти меня:
+>- 📩 fedosha9615@gmail.com
+>- 📱 t/me.astashkina_ea
 
 [<img src='https://github.githubassets.com/favicons/favicon.svg' alt='github' height='40'>](https://github.com/astashkina-ea)  [<img src='https://telegram.org/favicon.ico' alt='telegram' height='40'>](https://t.me/astashkina_ea)  
 
